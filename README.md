@@ -1,2 +1,2 @@
-# My-second-resume
-this is my second resume
+# Skills_Example
+this is my html-css skills exaple for resume
